@@ -49,12 +49,23 @@
 	</div>
 
 	<div class="container">
-		<div class="line_roadmap">
-
-		</div>
-		<section class="roadmap">
+		<div class="roadmap">
 			<h2 class="roadmap__h2">Camino de Eventos</h2>
-		</section>
+			<div class="line">
+				<div class="circle">
+					<img src="./assets/img/Vector.svg" alt="Vector-Check" class="circle__img">
+				</div>
+				<div class="circle">
+					<img src="./assets/img/Vector.svg" alt="Vector-Check" class="circle__img">
+				</div>
+				<div class="circle">
+					<img src="./assets/img/Vector.svg" alt="Vector-Check" class="circle__img">
+				</div>
+				<div class="circle">
+					<img src="./assets/img/Vector.svg" alt="Vector-Check" class="circle__img">
+				</div>
+			</div>
+		</div>
 	</div>
 
 	<section class="comites-fondo">
